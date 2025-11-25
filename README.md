@@ -14,8 +14,3 @@ Cocok untuk membuat teks, gambar, dan konten lainnya secara cepat sesuai templat
 - `templates/` → Template teks atau gambar
 - `output/` → Folder hasil konten otomatis
 - `README.md` → Penjelasan project
-
-## Cara Pakai
-1. Clone repository:
-   ```bash
-   git clone <repo-url>
